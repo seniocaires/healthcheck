@@ -43,7 +43,7 @@ Retorna o HTTP Status Code 200.
 
 ***
 
-## Parêmtros
+## Parâmtros
 * Não requer parâmetros.
 
 ***
